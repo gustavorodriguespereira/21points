@@ -1,0 +1,43 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "org.jhipster.health",
+      "nativeLanguage": "en"
+    },
+    "jhipsterVersion": "6.10.1",
+    "applicationType": "monolith",
+    "baseName": "TwentyOnePoints",
+    "packageName": "org.jhipster.health",
+    "packageFolder": "org/jhipster/health",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": "elasticsearch",
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "gradle",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "YTg0ZjJlN2YyOTdkNTc3N2NiMGNmZDk2YTFiOGNlMTJkY2UyN2YyNDAwY2QwNzc1MDJhZDUxMjM1ZTFjYmZkOWU2OGQ4MzQ2M2M0NDZiYTdlYjhiMTQ5ZDk0MTEyNWNmYzMzZDY4OWUwOGRjNGIwZmY4YjRkOWU1YzI2YjU3ZjA=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "angularX",
+    "clientTheme": "none",
+    "clientThemeVariant": "",
+    "creationTimestamp": 1597180244386,
+    "testFrameworks": ["gatling", "protractor"],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": ["en"],
+    "blueprints": []
+  }
+}
